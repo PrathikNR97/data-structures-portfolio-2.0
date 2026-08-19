@@ -3,7 +3,7 @@ Data Science Student
 UNC Charlotte
 ---
 ## About Me
-Write a short introduction about yourself and your goals in data science.
+I am Prathik and I am currently majoring in data science. I like to solve Rubik's Cubes. 
 ---
 ## Portfolio
 - [Blog](blog.md)
