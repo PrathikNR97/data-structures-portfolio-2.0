@@ -31,20 +31,11 @@
 
 
 * **Potential Data Sources:**
-* Bureau of Labor Statistics Consumer Expenditure Survey ([BLS CEX](https://www.bls.gov/cex/?utm_source=gemini))
+Moser, C., Schoenebeck, S. Y., & Resnick, P. (2019). Impulse buying: Design practices and consumer needs. In Proceedings of the 2019 CHI Conference on Human Factors in Computing Systems (pp. 1–15). Association for Computing Machinery.
 
+Rook, D. W. (1987). The buying impulse. Journal of Consumer Research, 14(2), 189–199.
 
-* Kaggle datasets on personal finance and spending behavior
-
-
-* UNC Charlotte library databases ([Library Databases](https://library.charlotte.edu/research-write/databases?utm_source=gemini))
-
-
-* Self-created Qualtrics or Google Forms surveys distributed to students
-
-
-* Pew Research datasets on consumer habits ([Pew Research](https://www.google.com/search?q=http://pewresearch.org/datasets/&utm_source=gemini))
-
+Verplanken, B., & Herabadi, A. (2001). Individual differences in impulse buying tendency: Feeling and no thinking. European Journal of Personality, 15(S1), S71–S83.
 
 
 
