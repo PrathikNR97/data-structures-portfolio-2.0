@@ -6,14 +6,14 @@ A secondary analysis of a published behavioral-economics experiment, examining w
 
 ## Table of Contents
 
-1. [Research Question](https://www.google.com/search?q=%2523research-question&utm_source=gemini)
-2. [Dataset](https://www.google.com/search?q=%2523dataset&utm_source=gemini)
-3. [Variables](https://www.google.com/search?q=%2523variables&utm_source=gemini)
-4. [Data Cleaning (pandas)](https://www.google.com/search?q=%2523data-cleaning-pandas&utm_source=gemini)
-5. [Visualizations](https://www.google.com/search?q=%2523visualizations&utm_source=gemini)
-6. [Limitations](https://www.google.com/search?q=%2523limitations&utm_source=gemini)
-7. [Code & AI Usage Disclosure](https://www.google.com/search?q=%2523code--ai-usage-disclosure&utm_source=gemini)
-8. [References](https://www.google.com/search?q=%2523references&utm_source=gemini)
+1. Research Question
+2. Dataset
+3. Variable
+4. Data Cleaning (pandas)
+5. Visualizations
+6. Limitations
+7. Code & AI Usage Disclosure
+8. References
 
 ---
 
