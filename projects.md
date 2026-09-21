@@ -63,12 +63,12 @@ All cleaning steps and the reasoning behind each are documented inline in `gener
 
 ## Visualizations
 
-### 1. Trait impulsivity vs. actual impulsive spending
+### 1. [Trait impulsivity vs. actual impulsive spending](scatter_impulse_vs_overspend.png)
 
 * **Scatter plot** of impulse-buying tendency score versus dollars spent impulsively, showing a weak positive relationship ($n = 131$). Each point is one participant.
 * **What it shows:** The relationship is positive but weak (Pearson $r = 0.155$). Most participants — regardless of their trait impulsivity score — spent exactly $0 impulsively (the dense row of points along the bottom). Among those who did spend impulsively, there's no clean pattern where higher trait impulsivity predicts higher dollars spent; some of the highest spenders have only moderate `IB_SCALE` scores. This suggests a validated personality trait measured in the abstract doesn't translate cleanly into predicting a specific spending amount in a specific 15-minute session — situational factors likely matter more than the trait alone.
 
-### 2. Impulsive spending by checkout-delay condition
+### 2. [Impulsive spending by checkout-delay condition](box_impulse_groups.png)
 
 * **Box and whisker plot** comparing impulsive spending between the no-delay control group and the 10-minute delay group ($n = 131$; 66 control, 65 delay). Circles are individual outlier values above the whisker.
 * **What it shows:** Both groups have a median of $0 — most people in either condition didn't spend impulsively at all. But the control group's middle 50% of spenders (the box) reaches up to about $10, while the delay group's box is compressed to $0, with its impulsive spenders showing up only as individual outlier points (up to ~$19). This visually matches the original study's finding: a 10-minute delay did not produce a statistically significant drop in impulsive dollars spent, largely because most participants kept shopping (rather than stepping away) during the delay itself.
