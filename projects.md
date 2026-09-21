@@ -93,7 +93,7 @@ Full analysis code (data loading, cleaning, and chart generation): `[github.com/
 
 ### AI usage disclosure
 
-> *Edit this to reflect your actual process — for example:* "Claude (Anthropic) was used to help locate a publicly available dataset matching the research question, write and comment the pandas data-cleaning script, generate the two visualizations, and draft this write-up. All research questions, interpretation of results, and final editorial decisions are the author's own."
+>Artificial Intelligence  was utilized solely for document formatting and minor assistance with data visualization scripts . All research design, literature, APA formatting, dataset selection, identification of limitations, and critical interpretation of results were independently done by me.
 
 ---
 
