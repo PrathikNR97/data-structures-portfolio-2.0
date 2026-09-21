@@ -30,7 +30,8 @@
 * **Data Requirements:** Survey responses capturing weekly impulse purchases, monthly budget vs. actual spending data, and demographic information (age and income).
 
 
-* **Potential Data Sources:**
+* **Data Sources:**
+  
 Moser, C., Schoenebeck, S. Y., & Resnick, P. (2019). Impulse buying: Design practices and consumer needs. In Proceedings of the 2019 CHI Conference on Human Factors in Computing Systems (pp. 1–15). Association for Computing Machinery.
 
 Rook, D. W. (1987). The buying impulse. Journal of Consumer Research, 14(2), 189–199.
