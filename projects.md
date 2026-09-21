@@ -89,7 +89,7 @@ All cleaning steps and the reasoning behind each are documented inline in `gener
 
 ### Code
 
-Full analysis code (data loading, cleaning, and chart generation): `[(https://github.com/your-github-handle/your-repo-name](https://github.com/PrathikNR97/data-structures-portfolio-2.0/tree/main))` 
+Full analysis code (data loading, cleaning, and chart generation): `[(https://github.com/PrathikNR97/data-structures-portfolio-2.0/tree/main)]' 
 
 ### AI usage disclosure
 
