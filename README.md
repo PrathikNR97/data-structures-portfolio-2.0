@@ -10,7 +10,7 @@ Before college, I was involved in several leadership and community-focused activ
 My academic journey has also taught me the importance of persistence and adapting when things don't go as planned. Starting college has given me a fresh opportunity to focus on developing practical skills and figuring out the areas of technology and business that I enjoy most.
 
 In the future, I hope to build a career where I can use data and technology to solve real-world problems. Right now, my goals are to strengthen my technical foundation, gain internship experience, work on meaningful projects, and continue growing both professionally and personally.
----
+
 ## Portfolio
 - [Blog](blog.md)
 - [Projects](projects.md)
