@@ -14,6 +14,6 @@ In the future, I hope to build a career where I can use data and technology to s
 ## Portfolio
 - [Blog](blog.md)
 - [Project-1](project-1.md)
-- [Project-1](project-2.md)
+- [Project-2](project-2.md)
 - [Resume](Prathik_Nagulugari_Harvard_Resume.pdf)  
 - [Linkedin](https://www.linkedin.com/in/prathik-nagulugari-80190724b/)
