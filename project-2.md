@@ -67,7 +67,7 @@
       <p><strong>Class balance:</strong> the decision tree's target (<code>engagement_group</code>) is a median split on <code>SMU</code>, so it is exactly 50/50 by construction (104 "high," 104 "low") — no class-imbalance correction is needed.</p>
     </div>
     <div class="fig" style="margin-top:1.25rem">
-      <img src="assets/bar_class_balance.png" alt="Bar chart showing the decision tree's target classes are perfectly balanced">
+      <img src="bar chart 1.png" alt="Bar chart showing the decision tree's target classes are perfectly balanced">
       <p style="font-size:0.9rem;color:#666;margin-top:0.5rem">Target class balance for Model 2 — exactly even by construction, since the split point is the sample's own median.</p>
     </div>
     <div class="fig" style="margin-top:1.5rem">
