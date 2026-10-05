@@ -1,5 +1,5 @@
 
-    <header>
+ <header>
         <div class="eyebrow">Data Science Portfolio Project - Two</div>
         <h1>Does Self-Report Predict Actual Social Media Use?</h1>
         <p class="tagline">How accurately do people estimate their own weekly social media use, compared to objectively measured screen time? A linear regression and a decision tree, tested against real baselines on 209 real participants.</p>
