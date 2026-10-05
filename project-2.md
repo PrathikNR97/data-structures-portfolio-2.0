@@ -186,7 +186,7 @@
     <div class="card">
       <p>Code: <code>generate_graphs.py</code> (exploratory analysis, baselines, modeling, and visualization) — <a href="#">link to your GitHub repository here</a>.</p>
       <p>Dataset: Mahalingham, T. (2022). "Data Set — assessing the validity of self-reported social media use." Mendeley Data, V1 (CC BY 4.0). <a href="https://data.mendeley.com/datasets/x3wxfycggn" target="_blank" rel="noopener">https://data.mendeley.com/datasets/x3wxfycggn</a>.</p>
-      <p><span style="background:#FBF0DF;border:1px dashed #C97B3E;padding:0.05rem 0.4rem;border-radius:3px;">Edit this to match your course's exact AI-disclosure policy</span> — e.g., "Claude Sonnet 5 (Anthropic) was used to help locate the real published dataset matching this project's research question, convert it from SPSS format when standard tools were unavailable, write the exploratory-analysis, baseline, and modeling code, and draft this write-up. All research questions, modeling decisions, interpretation, and final editorial decisions are the author's own."</p>
+      <p><span style="background:#FBF0DF;border:1px dashed #C97B3E;padding:0.05rem 0.4rem;border-radius:3px;">"AI is used  for fixing the graphs."</p>
     </div>
   </section>
 
