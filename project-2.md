@@ -136,7 +136,7 @@
       <p style="font-size:0.9rem;color:#666;margin-top:0.5rem">The fitted decision tree (depth 4). The root split is <code>PickUps</code> (≤ 513/week), not <code>SR_SMU_minsweek</code>.</p>
     </div>
     <div class="fig" style="margin-top:1.5rem">
-      <img src="assets/feature_importance.png" alt="Bar chart of feature importances from the decision tree">
+      <img src="b3.png" alt="Bar chart of feature importances from the decision tree">
       <p style="font-size:0.9rem;color:#666;margin-top:0.5rem"><code>PickUps</code> accounts for roughly 82% of the tree's total splitting power; <code>SR_SMU_minsweek</code> accounts for the rest. <code>Gender</code> and <code>Device</code> contributed nothing.</p>
     </div>
     <p>Every split in the tree is on <code>PickUps</code> or <code>SR_SMU_minsweek</code> — never on gender or device type, which have zero feature importance. That means the tree found no evidence that who someone is (by these two demographic categories) changes how well self-report or pickups predict their actual use; the behavioral signal does all the work.</p>
