@@ -186,7 +186,7 @@ Araujo, T., Wonneberger, A., Neijens, P., & de Vreese, C. (2017). How much time 
 
 </main>
 
-<footer>Built with Python (pandas, scikit-learn, matplotlib) for the analysis and plain HTML/CSS for the site. Data: Mahalingham (2022), a real, published, CC-BY-licensed sample of 209 participants.</footer>
+Built with Python (pandas, scikit-learn, matplotlib) for the analysis and plain HTML/CSS for the site. Data: Mahalingham (2022), a real, published, CC-BY-licensed sample of 209 participants.</footer>
 
 </body>
 </html>
