@@ -65,17 +65,12 @@
       <p><strong>Outliers:</strong> using the standard IQR rule, 37 of 208 participants are outliers on <code>SR_SMU_minsweek</code> (mostly high self-estimates), 5 on <code>SMU</code>, and 3 on <code>PickUps</code>. These are kept rather than removed — self-reported outliers are themselves part of what the research question is about (how badly can self-report miss?), and objective outliers reflect a small number of genuinely heavy users rather than data errors.</p>
       <p><strong>Class balance:</strong> the decision tree's target (<code>engagement_group</code>) is a median split on <code>SMU</code>, so it is exactly 50/50 by construction (104 "high," 104 "low") — no class-imbalance correction is needed.</p>
     </div>
-    <div class="fig" style="margin-top:1.25rem">
-      <img src="assets/bar_class_balance.png" alt="Bar chart showing the decision tree's target classes are perfectly balanced">
-      <p style="font-size:0.9rem;color:#666;margin-top:0.5rem">Target class balance for Model 2 — exactly even by construction, since the split point is the sample's own median.</p>
+   Target class balance for Model 2 — exactly even by construction, since the split point is the sample's own median.</p>
     </div>
     <div class="fig" style="margin-top:1.5rem">
-      <img src="assets/scatter_selfreport_vs_smu.png" alt="Scatter plot of self-reported weekly social media use vs. objectively measured use">
-      <p style="font-size:0.9rem;color:#666;margin-top:0.5rem">The core relationship this project tests: self-reported weekly use vs. objective use. Visually, there's no obvious upward trend — points are scattered roughly evenly regardless of self-report level, which is what motivated using a single predictor (rather than assuming extra features would help) for Model 1.</p>
+The core relationship this project tests: self-reported weekly use vs. objective use. Visually, there's no obvious upward trend — points are scattered roughly evenly regardless of self-report level, which is what motivated using a single predictor (rather than assuming extra features would help) for Model 1.</p>
     </div>
-    <div class="fig" style="margin-top:1.5rem">
-      <img src="assets/hist_over_underestimation.png" alt="Histogram of self-report minus actual social media use">
-      <p style="font-size:0.9rem;color:#666;margin-top:0.5rem">Distribution of (self-report − actual) per participant. The mean sits at +305 minutes/week — on average, participants substantially <em>overestimated</em> their own use, and the spread is wide, which is exactly the kind of noisy relationship a weak regression R² implies.</p>
+Distribution of (self-report − actual) per participant. The mean sits at +305 minutes/week — on average, participants substantially <em>overestimated</em> their own use, and the spread is wide, which is exactly the kind of noisy relationship a weak regression R² implies.</p>
     </div>
     <p>This exploration directly shaped feature selection: the self-report/objective-use scatter showed no visible linear trend worth adding extra regression terms to, so Model 1 stays a simple one-predictor regression (matching the research question exactly, rather than overfitting a sparse relationship with more terms). For Model 2, <code>PickUps</code> was added alongside self-report because it is a real behavioral signal (unlike self-report, it's logged, not estimated) and was available for every participant used in the tree.</p>
   </section>
