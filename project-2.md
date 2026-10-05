@@ -1,21 +1,4 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <title>My Portfolio</title>
-    <style>
-        /* ---> INSERT OR UPDATE YOUR CSS CODE HERE <--- */
-        body {
-            display: flex;
-            margin: 0;
-        }
-        .sidebar {
-            width: 250px;
-        }
-    </style>
-</head>
-<body>
-    <!-- Your content here -->
+
 
  <header>
         <div class="eyebrow">Data Science Portfolio Project - Two</div>
