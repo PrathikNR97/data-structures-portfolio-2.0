@@ -122,7 +122,7 @@
       <p><strong>Model 2 (decision tree): test accuracy = 0.673</strong> (35 of 52 held-out participants correct), vs. a baseline accuracy of 0.500.</p>
       <p>Accuracy is appropriate here because the classes are exactly balanced (50/50), so it isn't distorted by class imbalance the way it could be in a skewed dataset. The tree clears the baseline by 17.3 percentage points — a real, meaningful improvement over chance, even though it's far from perfect.</p>
       <div class="fig" style="margin-top:1rem">
-        <img src="assets/bar_baseline_vs_tree.png" alt="Bar chart comparing decision tree accuracy to the majority-class baseline">
+        <img src="b2.png" alt="Bar chart comparing decision tree accuracy to the majority-class baseline">
       </div>
     </div>
     <p><strong>Which model performed better, and which is "final"?</strong> These two models answer related but different versions of the research question, so "final model" here means: which approach better supports an actual decision. The regression says self-report explains almost nothing on its own. The decision tree, once given a second, logged variable (pickups) to work with, does meaningfully better than chance — suggesting the right fix for weak self-report isn't a fancier model of self-report, it's supplementing or replacing self-report with even one piece of logged behavioral data. If forced to pick one model to act on, the decision tree is the one worth deploying; the regression is the one that correctly diagnoses why self-report alone isn't enough.</p>
