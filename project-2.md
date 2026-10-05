@@ -71,7 +71,7 @@
       <p style="font-size:0.9rem;color:#666;margin-top:0.5rem">Target class balance for Model 2 — exactly even by construction, since the split point is the sample's own median.</p>
     </div>
     <div class="fig" style="margin-top:1.5rem">
-      <img src="assets/scatter_selfreport_vs_smu.png" alt="Scatter plot of self-reported weekly social media use vs. objectively measured use">
+      <img src="scatterplot1.png" alt="Scatter plot of self-reported weekly social media use vs. objectively measured use">
       <p style="font-size:0.9rem;color:#666;margin-top:0.5rem">The core relationship this project tests: self-reported weekly use vs. objective use. Visually, there's no obvious upward trend — points are scattered roughly evenly regardless of self-report level, which is what motivated using a single predictor (rather than assuming extra features would help) for Model 1.</p>
     </div>
     <div class="fig" style="margin-top:1.5rem">
