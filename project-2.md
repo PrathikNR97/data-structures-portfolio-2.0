@@ -1,39 +1,4 @@
 
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Self-Report vs. Objective Social Media Use</title>
-    <style>
-        :root {
-            --ink: #1F1F1F; --paper: #F7F5F0; --panel: #FFFFFF;
-            --teal: #1B4B5A; --clay: #C97B3E; --rule: #DAD5C9;
-        }
-        * { box-sizing: border-box; }
-        body {
-            margin: 0; font-family: -apple-system, "Segoe UI", Helvetica, Arial, sans-serif;
-            background: var(--paper); color: var(--ink); line-height: 1.6;
-        }
-        header { 
-            padding: 3rem 1.5rem 2rem; 
-            max-width: 800px; 
-            margin: 0 auto; 
-            border-bottom: 1px solid var(--rule); 
-        }
-        .eyebrow { color: var(--teal); font-weight: 600; margin-bottom: 0.5rem; }
-        h1 { font-family: Georgia, serif; font-size: 2.1rem; line-height: 1.2; margin: 0 0 0.75rem; }
-        header p.tagline { font-size: 1.1rem; max-width: 60ch; color: #454545; margin: 0; }
-        nav { margin-top: 1.5rem; display: flex; gap: 1.25rem; flex-wrap: wrap; font-size: 0.95rem; }
-        nav a { color: var(--teal); text-decoration: none; font-weight: 600; }
-        main { max-width: 800px; margin: 0 auto; padding: 0 1.5rem; }
-        section { padding: 2.75rem 0; border-bottom: 1px solid var(--rule); }
-        h2 { font-family: Georgia, serif; font-size: 1.5rem; margin-bottom: 1rem; }
-        h3 { font-size: 1.1rem; margin: 1.5rem 0 0.5rem; }
-        p { margin: 0 0 1rem; }
-        .card { background: var(--panel); border: 1px solid var(--rule); border-radius: 8px; padding: 1.5rem; margin-top: 1.25rem; }
-    </style>
-</head>
-<body>
     <header>
         <div class="eyebrow">Data Science Portfolio Project - Two</div>
         <h1>Does Self-Report Predict Actual Social Media Use?</h1>
