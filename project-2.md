@@ -178,9 +178,9 @@ Araujo, T., Wonneberger, A., Neijens, P., & de Vreese, C. (2017). How much time 
     <div class="section-num">10. Code and Transparency</div>
     <h2>Code, Data, and AI Disclosure</h2>
     <div class="card">
-      <p>Code: <code>generate_graphs.py</code> (exploratory analysis, baselines, modeling, and visualization) — <a href="#">link to your GitHub repository here</a>.</p>
       <p>Dataset: Mahalingham, T. (2022). "Data Set — assessing the validity of self-reported social media use." Mendeley Data, V1 (CC BY 4.0). <a href="https://data.mendeley.com/datasets/x3wxfycggn" target="_blank" rel="noopener">https://data.mendeley.com/datasets/x3wxfycggn</a>.</p>
-      <p><span style="background:#FBF0DF;border:1px dashed #C97B3E;padding:0.05rem 0.4rem;border-radius:3px;">"AI is used  for fixing the graphs."</p>
+      <p><span style="background:#FBF0DF;border:1px dashed #C97B3E;padding:0.05rem 0.4rem;border-radius:3px;">
+       "AI is used  for fixing the graphs."</p>
     </div>
   </section>
 
