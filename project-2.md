@@ -1,6 +1,6 @@
 
 
- i
+ DTSC 2301
         <div class="eyebrow">Data Science Portfolio Project - Two</div>
         <h1>Does Self-Report Predict Actual Social Media Use?</h1>
         <p class="tagline">How accurately do people estimate their own weekly social media use, compared to objectively measured screen time? A linear regression and a decision tree, tested against real baselines on 209 real participants.</p>
@@ -186,8 +186,7 @@ Araujo, T., Wonneberger, A., Neijens, P., & de Vreese, C. (2017). How much time 
 
 </main>
 
-Built with Python (pandas, scikit-learn, matplotlib) for the analysis and plain HTML/CSS for the site. Data: Mahalingham (2022), a real, published, CC-BY-licensed sample of 209 participants.</footer>
-
+Built with Python (pandas, scikit-learn, matplotlib) for the analysis and plain HTML/CSS for the site. Data: Mahalingham (2022), a real, published, CC-BY-licensed sample of 209 participants.
 </body>
 </html>
 </body>
