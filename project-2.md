@@ -132,7 +132,7 @@
     <div class="section-num">8. Model Interpretation and Insights</div>
     <h2>What the Models Learned</h2>
     <div class="fig">
-      <img src="decisiontree1.png" alt="Decision tree diagram predicting high vs. low objective social media engagement">
+      <img src="decsiontree1.png" alt="Decision tree diagram predicting high vs. low objective social media engagement">
       <p style="font-size:0.9rem;color:#666;margin-top:0.5rem">The fitted decision tree (depth 4). The root split is <code>PickUps</code> (≤ 513/week), not <code>SR_SMU_minsweek</code>.</p>
     </div>
     <div class="fig" style="margin-top:1.5rem">
